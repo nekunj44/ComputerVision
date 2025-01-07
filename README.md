@@ -62,6 +62,8 @@ print(cv2.__version__)
 
 If you see the OpenCV version printed (e.g., 4.5.5), the installation was successful. 🎉
 
+---
+
 ## 📦 NumPy: Install via pip:
 
 ```
