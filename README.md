@@ -107,16 +107,19 @@ Steps to set up Anaconda:
 ## 🛠️ Installing the **OpenCV Library**
 
 Open your **Command Prompt/Terminal** and type the following command:  
-```bash
+```
 pip install opencv-python
+```
 
-Verifying the Installation
+## Verifying the Installation
 
-    Open your Python IDE (VS Code, Jupyter, or Spyder) or terminal.
-    Type the following command:
+Open your Python IDE (VS Code, Jupyter, or Spyder) or terminal.
+Type the following command:
 
+```
 import cv2
 print(cv2.__version__)
+```
 
 If you see the OpenCV version printed (e.g., 4.5.5), the installation was successful. 🎉
 
