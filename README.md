@@ -72,7 +72,7 @@ pip install numpy
 
 ---
 
-##▶️ Running the Projects
+## ▶️ Running the Projects
 
 Each project is contained within its own directory. Navigate to the desired project folder and execute the corresponding Python script. For example:
 
@@ -101,5 +101,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-## ⭐ If you find this repository useful, don't forget to give it a star! ⭐
+<p align="center">
+  ⭐ If you find this repository useful, don't forget to give it a star! ⭐
+</p>
+
 
