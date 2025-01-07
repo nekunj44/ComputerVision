@@ -69,3 +69,34 @@ If you see the OpenCV version printed (e.g., 4.5.5), the installation was succes
 ```
 pip install numpy
 ```
+
+---
+
+▶️ Running the Projects
+Each project is contained within its own directory. Navigate to the desired project folder and execute the corresponding Python script. For example:
+
+```
+cd ImageEnhancement
+python enhance_image.py
+```
+
+Refer to the specific project's README for detailed instructions and usage examples.
+
+---
+
+🤝 Contributing
+Contributions are welcome! Feel free to:
+
+1. Fork this repository 🍴
+2. Create a feature branch 🌱
+3. Submit a pull request 🚀
+
+---
+
+📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
+⭐ If you find this repository useful, don't forget to give it a star! ⭐
+
