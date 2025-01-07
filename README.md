@@ -72,7 +72,8 @@ pip install numpy
 
 ---
 
-▶️ Running the Projects
+##▶️ Running the Projects
+
 Each project is contained within its own directory. Navigate to the desired project folder and execute the corresponding Python script. For example:
 
 ```
@@ -84,7 +85,8 @@ Refer to the specific project's README for detailed instructions and usage examp
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
+
 Contributions are welcome! Feel free to:
 
 1. Fork this repository 🍴
@@ -93,10 +95,11 @@ Contributions are welcome! Feel free to:
 
 ---
 
-📜 License
+## 📜 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
-⭐ If you find this repository useful, don't forget to give it a star! ⭐
+## ⭐ If you find this repository useful, don't forget to give it a star! ⭐
 
