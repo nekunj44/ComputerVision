@@ -38,8 +38,6 @@ else:
 #saves the image if letter "s" is pressed and closes the window.
 
 img4 = cv2.flip(img1, 0)
-'''
-0: Flip the image vertically (around the x-axis).
-1: Flip the image horizontally (around the y-axis).
--1: Flip the image both horizontally and vertically (around both axes).
-'''
+#0: Flip the image vertically (around the x-axis).
+#1: Flip the image horizontally (around the y-axis).
+#-1: Flip the image both horizontally and vertically (around both axes).
