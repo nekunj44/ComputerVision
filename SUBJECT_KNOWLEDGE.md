@@ -57,6 +57,12 @@
    - **Three-channel** images.  
    - Pixel values are based on the intensity of **Red, Green, and Blue (RGB)** components.  
 
+## OPEN CV COMMANDS
+
+1. cv2.imread()
+
+![alt text](image-1.png)
+
 🎉 **Notes**:  
 - Feel free to enhance this document with practical examples and links to relevant resources!  
 - Adding Python scripts, datasets, or visual examples can make this repository more interactive. 😊
