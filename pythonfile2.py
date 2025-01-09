@@ -19,6 +19,7 @@ cap = cv2.VideoCapture("/home/nekunj44/Videos/redbullvsferrari.mp4")
 fourcc = cv2.VideoWriter_fourcc(*"XVID")
 #it contains 4 parameters i.e name, above_variable, fps, resolution size
 output = cv2.VideoWriter("/home/nekunj44/Videos/output.avi", fourcc, 20.0, (450, 450)) 
+#isme ek extra parameter 0 pass karna padega agar greyscale video hai to.
 
 
 while True: #while cap.isOpened(): for webcam
