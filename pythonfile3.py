@@ -14,7 +14,6 @@ output = cv2.VideoWriter("/home/nekunj44/Videos/output1.mp4", fourcc, 20.0, (450
 while (cap.isOpened()):
     ret, frame = cap.read()
     if ret == True:
-        frame = cv2.resize(frame, (450, 450))
         cv2.imshow("frame", frame)
         output.write(frame)
         if cv2.waitKey() == ord("q"):
